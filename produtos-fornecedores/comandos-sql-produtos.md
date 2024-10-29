@@ -61,8 +61,8 @@ CREATE TABLE produtos (
 ```sql
 
 -- Expressão SQL para cadastrar um usuário
-INSERT INTO usuarios (usuario, senha) VALUES ('Ignacio', MD5('123'));
-INSERT INTO usuarios (usuario, senha) VALUES ('Valmir', MD5('123'));
+INSERT INTO usuarios (usuario, senha) VALUES ('Rubro Negro', MD5('123'));
+INSERT INTO usuarios (usuario, senha) VALUES ('Flafla', MD5('123'));
 
 
 ``` 
